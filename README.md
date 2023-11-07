@@ -1,3 +1,3 @@
 # demo-repo
-#DEMO
+# DEMO
 This is a demo project for practice!
